@@ -1,1 +1,1 @@
-Olá! Me chamo Gustavo(gst), Sou estudante de programação. Atualmente estou estudando HTML , CSS e JavaScript.
+Olá! Me chamo Gustavo Teles (gst), Sou estudante de programação. Atualmente estou estudando HTML , CSS e JavaScript.
