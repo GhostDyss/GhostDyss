@@ -11,6 +11,13 @@ Hello! My name is Gustavo Teles (gst), I'm a programming student. I'm currently 
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
+### Connect With Me:
+<div>
+<p align="rigth">
+  <a href="https://www.instagram.com/gteles_" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+
  Below are my projects!!
  -
 ![bluelock](https://github.com/user-attachments/assets/8a02593e-d378-4a53-9b30-9a84aacde19a)
